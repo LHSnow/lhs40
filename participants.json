@@ -1,0 +1,12 @@
+[
+    {"name": "Robert",
+     "allergies": ["nuts", "kiwi fruit"],
+     "vegetarian": true,
+     "has_transport": true
+    },
+    {"name": "Jule",
+     "dislikes": ["mushrooms"],
+     "vegetarian": true,
+     "has_transport": true
+    }
+]
