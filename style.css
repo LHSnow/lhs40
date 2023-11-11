@@ -12,8 +12,8 @@ header {
     height: 130vw;
     position: relative;
     margin: 0 auto;
-    max-width: 700px;
-    max-height: 1000px;
+    max-width: 800px;
+    max-height: 1050px;
 }
 
 h1, .ribbon {
@@ -24,7 +24,7 @@ h1, .ribbon {
 }
 
 .ribbon {
-    bottom: 10%;
+    bottom: 11%;
     font-size: 1.8em;
 }
 
@@ -33,16 +33,16 @@ address {
 }
 
 main {
-    max-width: 500px;
+    max-width: 600px;
     width: 80vw;
     margin: 0 auto 3em auto;
 }
 
 h1 {
-    top: 4vw;
+    top: 5%;
     font-size: 2.5em;
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 2em;
 }
