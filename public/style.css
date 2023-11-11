@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    flex-direction: column;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+
+header {
+    background: white url(christmas-005-snow.jpg) no-repeat top center;
+    background-size: contain;
+    width: 98vw;
+    height: 130vw;
+    position: relative;
+}
+
+h1, .ribbon {
+    text-align: center;
+    display: block;
+    position: absolute;
+    width: 100%;
+}
+
+.ribbon {
+    bottom: 11%;
+    font-size: 2em;
+}
+
+address {
+    font-style: normal;
+}
+
+main {
+    width: 80vw;
+    margin: 0 auto 3em auto;
+}
+
+h1 {
+    top: 4%;
+    font-size: 3em;
+}
